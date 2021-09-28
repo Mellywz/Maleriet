@@ -1,0 +1,60 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    width: 1024px;
+}
+
+.maleriet {
+    background-image: url(/Billede-materiale/pattern.jpeg);
+    height: 118px;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+.pensler {
+    background-color: mediumspringgreen;
+    color: #fff;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.rammer {
+    background-color: lightcoral;
+    color: #fff;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+
+}
+
+.maling {
+    background-color: skyblue;
+    color: #fff;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+
+.fremhaevning-1{
+    color: blue;
+}
+.fremhaevning-2{
+    color: blue;
+}
+.fremhaevning-3{
+    color: blue;
+}
